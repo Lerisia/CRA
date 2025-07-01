@@ -4,6 +4,7 @@ This repository is for TDD training in CRA class
 ## Including...
 - git & github training
 - Markdown training
+- Making and reviewing PR training
 
 The picture below is not related to this page.
 It's just a cup of coffee.
